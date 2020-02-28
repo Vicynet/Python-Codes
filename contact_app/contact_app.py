@@ -1,0 +1,3 @@
+import contacts
+
+contacts.main()
